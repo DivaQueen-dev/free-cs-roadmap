@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Free Tech Roadmap
+#  Free Tech Roadmap :)
 ### Everything you need to break into tech. Zero paywalls. Zero BS.
 
 [![Discord](https://img.shields.io/badge/Join%20Community-Discord-7289da?style=for-the-badge&logo=discord)](https://discord.gg/ETCSm74A59)
