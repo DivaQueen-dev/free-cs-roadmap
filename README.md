@@ -7,6 +7,9 @@
 [![Stars](https://img.shields.io/github/stars/yourusername/free-tech-roadmap?style=for-the-badge)](https://github.com/yourusername/free-tech-roadmap)
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-May%202026-brightgreen?style=for-the-badge)](#)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-orange?style=for-the-badge)](CONTRIBUTING.md)
+[![Open Source Guide](https://img.shields.io/badge/Open%20Source-Guide-blue?style=for-the-badge)](OPEN_SOURCE.md)
+[![Freelancing Guide](https://img.shields.io/badge/Freelancing-Guide-green?style=for-the-badge)](FREELANCING.md)
+
 
 </div>
 
@@ -63,6 +66,8 @@ Not everyone reading this is at the same place. Find yourself below and jump str
 
 ### 🎓 I'm from ECE / EEE / Mechanical and want to switch to software
 → **[Go to the Non-CS Branches section](#-non-cs-branches--tech-jobs)**
+[![Open Source Guide](https://img.shields.io/badge/Open%20Source-Guide-blue?style=for-the-badge)](OPEN_SOURCE.md)
+[![Freelancing Guide](https://img.shields.io/badge/Freelancing-Guide-green?style=for-the-badge)](FREELANCING.md)
 
 ---
 
@@ -101,7 +106,16 @@ Before you dive into any resources, spend 10 minutes on these. They show you the
 - [Chapter 8 — Free Tools Every Student Should Claim](#-chapter-8--free-tools-every-student-should-claim)
 - [Chapter 9 — Community](#-chapter-9--community)
 - [FAQ](#-faq--honest-answers)
+## 📂 More Guides in This Repo
 
+This repo has more than just the main README. Here's everything available:
+
+| Guide | What it covers |
+|-------|---------------|
+| 📖 [You're here — Main Guide](README.md) | Roadmaps, domains, resources, interview prep, getting hired |
+| 🌍 [Open Source Contribution Guide](OPEN_SOURCE.md) | Everything about contributing to open source — complete workflow, beginner-friendly projects, programs that PAY students (GSoC, Outreachy, GSSoC, Hacktoberfest) |
+| 💼 [Freelancing Guide](FREELANCING.md) | How to start freelancing, platforms, pricing, proposals, finding clients, managing payments and taxes in India |
+| 🤝 [Contributing to This Repo](CONTRIBUTING.md) | How to add resources and improve this guide |
 ---
 
 ## 🧠 Chapter 1 — What is CS, really?
@@ -687,6 +701,24 @@ Target:    300+ problems, 10+ mock interviews, applying weekly
 5. Why do you want to work here specifically?
 6. Tell me about a project you're most proud of
 7. Where do you see yourself in 5 years?
+
+## 🌍 Open Source Contribution
+
+Contributing to open source is one of the best things you can do for your career — it builds real skills, creates a verifiable portfolio, and gets you noticed by companies. Some programs even **pay you a stipend** to contribute.
+
+> 📖 **[Read the Complete Open Source Guide →](OPEN_SOURCE.md)**
+>
+> Covers: Git workflow, finding beginner-friendly projects, GSoC, Hacktoberfest, GirlScript Summer of Code, Outreachy, MLH Fellowship, and much more.
+
+---
+
+## 💼 Freelancing
+
+Want to earn while you learn? Freelancing lets you start making money from your skills before you have a job. This guide covers everything honestly — including the hard parts nobody talks about.
+
+> 📖 **[Read the Complete Freelancing Guide →](FREELANCING.md)**
+>
+> Covers: Upwork vs Fiverr, pricing yourself (with real INR and USD rates), writing proposals, finding clients, managing payments, taxes in India, and growing from beginner to professional.
 
 ---
 
