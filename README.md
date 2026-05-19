@@ -777,6 +777,85 @@ Target:    300+ problems, 10+ mock interviews, applying weekly
 | [All Free Certs List](https://github.com/ArslanYM/Free-Certifications) | Various | Massive curated list of free certs across all domains. Bookmark this. |
 
 ### Aptitude prep
+### Aptitude Prep — Important for Indian Placements
+
+> Companies like TCS, Wipro, Infosys, Cognizant, Capgemini, Accenture, and HCL 
+> all have aptitude rounds **before** the technical interview. A lot of students 
+> ignore this and get filtered out before their code is ever seen. Don't let that 
+> happen to you.
+
+#### What the aptitude round actually tests
+
+| Section | Topics covered |
+|---------|---------------|
+| **Quantitative Aptitude** | Percentages, profit & loss, time & work, speed & distance, ratios, averages, permutations, probability |
+| **Logical Reasoning** | Blood relations, coding-decoding, series completion, syllogisms, puzzles, seating arrangements |
+| **Verbal Ability** | Reading comprehension, grammar, sentence correction, para jumbles, vocabulary, fill in the blanks |
+| **Data Interpretation** | Bar graphs, pie charts, tables, line graphs — reading and calculating from data |
+
+#### Company-specific aptitude resources
+
+| Company | Free Resource |
+|---------|--------------|
+| TCS NQT | [PrepInsta TCS NQT](https://prepinsta.com/tcs-nqt/) — Previous papers, mock tests, pattern breakdown |
+| Infosys | [PrepInsta Infosys](https://prepinsta.com/infosys/) — InfyTQ prep, verbal + quant + reasoning |
+| Wipro NLTH | [PrepInsta Wipro](https://prepinsta.com/wipro/) — Elite NLTH pattern, coding + aptitude |
+| Cognizant GenC | [PrepInsta Cognizant](https://prepinsta.com/cognizant/) — GenC and GenC Elevate patterns |
+| Capgemini | [PrepInsta Capgemini](https://prepinsta.com/capgemini/) — Game-based rounds + aptitude |
+| Accenture | [PrepInsta Accenture](https://prepinsta.com/accenture/) — Communication + aptitude pattern |
+
+#### General aptitude platforms (all free)
+
+| Resource | What it is | Best for |
+|----------|-----------|---------|
+| ⭐⭐⭐ [IndiaBix](https://www.indiabix.com) | The #1 free aptitude site in India. Massive question bank — quant, logical, verbal, company-wise papers. No signup needed for most content. | Starting aptitude prep from scratch |
+| ⭐⭐⭐ [PrepInsta](https://prepinsta.com) | Company-specific placement papers, mock tests, and previous year questions for every major Indian IT company. | Company-targeted preparation |
+| ⭐⭐⭐ [WCode](https://www.wcode.in/features/aptitude) | 27+ aptitude topics with 30-second shortcut tricks specifically built for Indian placement tests. Covers TCS, Infosys, Wipro, Cognizant. Free. | Speed and shortcut-based prep |
+| ⭐⭐ [GeeksforGeeks Practice](https://practice.geeksforgeeks.org) | Aptitude + technical questions together. Good for warming up before full mocks. | Technical + aptitude combined |
+| ⭐⭐ [Youth4Work](https://www.youth4work.com) | Company-specific mock tests for 50+ companies including TCS, Infosys, Wipro, HCL, Accenture. Free tier available. | Mock tests and ranking |
+| ⭐⭐ [MathsIsFun](https://www.mathsisfun.com) | If your quant fundamentals are weak — start here before IndiaBix. Covers all maths concepts visually, simply. | Building quant foundations |
+
+#### The most important aptitude topics to cover first
+
+Based on what Indian companies actually ask most frequently:
+
+**Quantitative (do these first):**
+- Percentages and its applications
+- Time, Speed and Distance
+- Time and Work
+- Profit and Loss
+- Ratios and Proportions
+- Simple and Compound Interest
+- Number System basics
+
+**Logical Reasoning (do these second):**
+- Blood Relations
+- Coding-Decoding
+- Number and Letter Series
+- Syllogisms
+- Puzzles and Seating Arrangements
+- Direction Sense
+
+**Verbal (don't skip this):**
+- Reading Comprehension
+- Sentence Correction
+- Para Jumbles
+- Synonyms and Antonyms
+
+#### How to prepare — honest strategy
+
+**Step 1** — Spend 1 week on concepts. Use IndiaBix or WCode to understand each topic properly before attempting timed practice.
+
+**Step 2** — Practice 20–30 questions daily topic-wise. Track accuracy, not just completion.
+
+**Step 3** — Once accuracy is good, focus on speed. Use WCode's 30-second tricks — speed is what makes or breaks aptitude rounds.
+
+**Step 4** — Take 1 full company-specific mock test per week. PrepInsta has these for every major company. Simulate real exam conditions — timed, no breaks.
+
+**Step 5** — In the last 2 weeks before a company's test, do their specific previous year papers. The pattern repeats more than you'd think.
+
+> ⚠️ **Important:** Most companies have negative marking in aptitude rounds. 
+> Don't guess randomly. Attempt what you're confident about, skip what you're not.
 
 | Resource | What it covers |
 |----------|---------------|
