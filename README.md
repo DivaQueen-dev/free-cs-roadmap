@@ -1,15 +1,14 @@
 <div align="center">
 
-#  Free Tech Roadmap :)
+#  Free Tech Roadmap
 ### Everything you need to break into tech. Zero paywalls. Zero BS.
 
 [![Discord](https://img.shields.io/badge/Join%20Community-Discord-7289da?style=for-the-badge&logo=discord)](https://discord.gg/ETCSm74A59)
-[![Stars](https://img.shields.io/github/stars/yourusername/free-tech-roadmap?style=for-the-badge)](https://github.com/yourusername/free-tech-roadmap)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-May%202026-brightgreen?style=for-the-badge)](#)
+[![Stars](https://img.shields.io/github/stars/DivaQueen-dev/free-cs-roadmap?style=for-the-badge)](https://github.com/DivaQueen-dev/free-cs-roadmap)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-May%202026-red?style=for-the-badge)](#)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-orange?style=for-the-badge)](CONTRIBUTING.md)
 [![Open Source Guide](https://img.shields.io/badge/Open%20Source-Guide-blue?style=for-the-badge)](OPEN_SOURCE.md)
-[![Freelancing Guide](https://img.shields.io/badge/Freelancing-Guide-green?style=for-the-badge)](FREELANCING.md)
-
+[![Freelancing Guide](https://img.shields.io/badge/Freelancing-Guide-pink?style=for-the-badge)](FREELANCING.md)
 
 </div>
 
@@ -37,8 +36,11 @@ Not everyone reading this is at the same place. Find yourself below and jump str
 *Never coded before. Don't know where to start. Overwhelmed by the options.*
 
 → **[Start with Chapter 1 — What is CS?](#-chapter-1--what-is-cs-really)**
+
 → **[Then Chapter 2 — What's happening in tech](#-chapter-2--whats-happening-in-tech-right-now)**
+
 → **[Then Chapter 3 — Pick your domain](#-chapter-3--pick-your-domain)**
+
 → **[Then the Beginner section of your domain in Chapter 4](#-chapter-4--resources-by-domain)**
 
 > 🔰 If you genuinely have no idea where to even begin — go to **[CS50.harvard.edu](https://cs50.harvard.edu)** right now and watch Week 0. Come back after. Seriously, just do that one thing first.
@@ -49,7 +51,9 @@ Not everyone reading this is at the same place. Find yourself below and jump str
 *I've coded before. I know what my domain is. I want to get better and build real things.*
 
 → **[Skip to Chapter 4 — Resources for your domain](#-chapter-4--resources-by-domain)**
+
 → Then the Intermediate section of your domain
+
 → **[Chapter 6 — Resume & Portfolio](#-chapter-6--resume--portfolio)**
 
 ---
@@ -58,16 +62,17 @@ Not everyone reading this is at the same place. Find yourself below and jump str
 *I know how to code. I want to crack FAANG or top Indian company interviews.*
 
 → **[Jump straight to FAANG Prep](#-general-swe--faang-prep)**
+
 → **[Chapter 5 — Interview Prep & Study Plans](#-chapter-5--interview-prep)**
+
 → **[Chapter 6 — Resume & Portfolio](#-chapter-6--resume--portfolio)**
+
 → **[Chapter 7 — Get Hired](#-chapter-7--get-hired)**
 
 ---
 
 ### 🎓 I'm from ECE / EEE / Mechanical and want to switch to software
 → **[Go to the Non-CS Branches section](#-non-cs-branches--tech-jobs)**
-[![Open Source Guide](https://img.shields.io/badge/Open%20Source-Guide-blue?style=for-the-badge)](OPEN_SOURCE.md)
-[![Freelancing Guide](https://img.shields.io/badge/Freelancing-Guide-green?style=for-the-badge)](FREELANCING.md)
 
 ---
 
@@ -83,6 +88,19 @@ Before you dive into any resources, spend 10 minutes on these. They show you the
 | ⭐⭐ **[devchallenges.io/roadmap](https://devchallenges.io/roadmap/web-development-roadmap)** | Web development roadmap with real project challenges built in | Unique — the roadmap links directly to projects you can build while learning |
 
 > 💡 **How to use these:** Open the roadmap for your chosen domain. Spend 5 minutes reading through it. Don't try to memorise it. Just understand the path. Then come back here for the actual free resources to follow that path.
+
+---
+
+## 📂 More Guides in This Repo
+
+This repo has more than just the main README. Here's everything available:
+
+| Guide | What it covers |
+|-------|---------------|
+| 📖 [You're here — Main Guide](README.md) | Roadmaps, domains, resources, interview prep, getting hired |
+| 🌍 [Open Source Contribution Guide](OPEN_SOURCE.md) | Complete workflow, beginner-friendly projects, programs that PAY students (GSoC, Outreachy, GSSoC, Hacktoberfest) |
+| 💼 [Freelancing Guide](FREELANCING.md) | How to start freelancing, platforms, pricing, proposals, finding clients, managing payments and taxes in India |
+| 🤝 [Contributing to This Repo](CONTRIBUTING.md) | How to add resources and improve this guide |
 
 ---
 
@@ -103,19 +121,11 @@ Before you dive into any resources, spend 10 minutes on these. They show you the
 - [Chapter 5 — Interview Prep](#-chapter-5--interview-prep)
 - [Chapter 6 — Resume & Portfolio](#-chapter-6--resume--portfolio)
 - [Chapter 7 — Get Hired](#-chapter-7--get-hired)
-- [Chapter 8 — Free Tools Every Student Should Claim](#-chapter-8--free-tools-every-student-should-claim)
-- [Chapter 9 — Community](#-chapter-9--community)
+- [Chapter 8 — Open Source & Freelancing](#-chapter-8--open-source--freelancing)
+- [Chapter 9 — Free Tools Every Student Should Claim](#-chapter-9--free-tools-every-student-should-claim)
+- [Chapter 10 — Community](#-chapter-10--community)
 - [FAQ](#-faq--honest-answers)
-## 📂 More Guides in This Repo
 
-This repo has more than just the main README. Here's everything available:
-
-| Guide | What it covers |
-|-------|---------------|
-| 📖 [You're here — Main Guide](README.md) | Roadmaps, domains, resources, interview prep, getting hired |
-| 🌍 [Open Source Contribution Guide](OPEN_SOURCE.md) | Everything about contributing to open source — complete workflow, beginner-friendly projects, programs that PAY students (GSoC, Outreachy, GSSoC, Hacktoberfest) |
-| 💼 [Freelancing Guide](FREELANCING.md) | How to start freelancing, platforms, pricing, proposals, finding clients, managing payments and taxes in India |
-| 🤝 [Contributing to This Repo](CONTRIBUTING.md) | How to add resources and improve this guide |
 ---
 
 ## 🧠 Chapter 1 — What is CS, really?
@@ -551,9 +561,9 @@ Most people grind hundreds of random LeetCode problems and wonder why they're no
 | Substring / Sliding Window | ⭐⭐ [Substring Template](https://leetcode.com/problems/minimum-window-substring/solutions/26808/) |
 | BFS & DFS | ⭐⭐ [Part 1](https://medium.com/leetcode-patterns/leetcode-pattern-1-bfs-dfs-25-of-the-problems-part-1-519450a84353) + [Part 2](https://medium.com/leetcode-patterns/leetcode-pattern-2-dfs-bfs-25-of-the-problems-part-2-a5b269597f52) |
 
-**Visualize what's happening:** [VisuAlgo](https://visualgo.net) — Watch algorithms execute step-by-step visually. If you don't understand why an algorithm works, come here. Free.
+**Visualize what's happening:** [VisuAlgo](https://visualgo.net) — Watch algorithms execute step-by-step visually. Free.
 
-**Sharpen speed:** [Codewars](https://www.codewars.com) — Gamified coding challenges with difficulty levels and community solutions. Great for building fluency. Free.
+**Sharpen speed:** [Codewars](https://www.codewars.com) — Gamified coding challenges. Great for building fluency. Free.
 
 #### Step 3 — Problem lists (pick one and complete it)
 
@@ -578,15 +588,13 @@ Most people grind hundreds of random LeetCode problems and wonder why they're no
 
 #### Step 5 — Core CS Subjects
 
-These come up in interviews constantly. Don't skip them.
-
 | Subject | Best Free Resource |
 |---------|-------------------|
-| Operating Systems | [Neso Academy OS Playlist](https://www.youtube.com/@nesoacademy) — best free OS course on YouTube |
+| Operating Systems | [Neso Academy OS Playlist](https://www.youtube.com/@nesoacademy) |
 | Database Management | [CMU 15-445 Database Course](https://15445.courses.cs.cmu.edu) — university-level, completely free |
-| Computer Networks | [Neso Academy CN Playlist](https://www.youtube.com/@nesoacademy) — same channel, same quality |
-| Object Oriented Programming | [MIT OCW](https://ocw.mit.edu) — free MIT course content |
-| Algorithms Theory | [MIT 6.006](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) — free, rigorous |
+| Computer Networks | [Neso Academy CN Playlist](https://www.youtube.com/@nesoacademy) |
+| Object Oriented Programming | [MIT OCW](https://ocw.mit.edu) |
+| Algorithms Theory | [MIT 6.006](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) |
 
 #### 📺 YouTube channels
 
@@ -615,7 +623,6 @@ Use [CS50P](https://cs50.harvard.edu/python/) or [Kaggle Python](https://www.kag
 Goal: variables, loops, functions, basic data structures.
 
 **Month 2–3 — Learn core CS subjects**
-These will be asked in every software interview regardless of your branch:
 - OS → [Neso Academy](https://www.youtube.com/@nesoacademy) (free YouTube)
 - DBMS → [Neso Academy](https://www.youtube.com/@nesoacademy) (free YouTube)
 - Computer Networks → [Neso Academy](https://www.youtube.com/@nesoacademy) (free YouTube)
@@ -625,13 +632,12 @@ These will be asked in every software interview regardless of your branch:
 Same path as every CS student. Use NeetCode roadmap + Striver's A2Z sheet.
 
 **Month 4–6 — Build projects**
-This is your proof. You can't rely on your degree, so your GitHub must speak.
-Build 3–4 solid, domain-specific projects.
+3–4 solid, domain-specific projects on GitHub.
 
 **Month 6+ — Apply aggressively**
 Off-campus is your best bet. Don't wait for campus placements. Apply directly.
 
-#### Resources specifically helpful for non-CS students
+#### Resources
 
 | Resource | What it covers |
 |----------|---------------|
@@ -697,28 +703,10 @@ Target:    300+ problems, 10+ mock interviews, applying weekly
 1. Tell me about yourself
 2. Tell me about a time you faced a tough challenge — how did you handle it?
 3. Tell me about a time you disagreed with your team
-4. What is your biggest weakness? *(don't say "I work too hard")*
+4. What is your biggest weakness?
 5. Why do you want to work here specifically?
 6. Tell me about a project you're most proud of
 7. Where do you see yourself in 5 years?
-
-## 🌍 Open Source Contribution
-
-Contributing to open source is one of the best things you can do for your career — it builds real skills, creates a verifiable portfolio, and gets you noticed by companies. Some programs even **pay you a stipend** to contribute.
-
-> 📖 **[Read the Complete Open Source Guide →](OPEN_SOURCE.md)**
->
-> Covers: Git workflow, finding beginner-friendly projects, GSoC, Hacktoberfest, GirlScript Summer of Code, Outreachy, MLH Fellowship, and much more.
-
----
-
-## 💼 Freelancing
-
-Want to earn while you learn? Freelancing lets you start making money from your skills before you have a job. This guide covers everything honestly — including the hard parts nobody talks about.
-
-> 📖 **[Read the Complete Freelancing Guide →](FREELANCING.md)**
->
-> Covers: Upwork vs Fiverr, pricing yourself (with real INR and USD rates), writing proposals, finding clients, managing payments, taxes in India, and growing from beginner to professional.
 
 ---
 
@@ -729,11 +717,11 @@ Want to earn while you learn? Freelancing lets you start making money from your 
 **Honest tips nobody tells you:**
 
 - **1 page. No exceptions for students.** If it's more, cut it.
-- Every bullet point should be: **Action verb → What you did → The impact**
+- Every bullet point: **Action verb → What you did → The impact**
 - "Built a REST API" is weak. "Built a REST API serving 10k requests/day with 99.9% uptime" is strong.
 - **Use numbers wherever possible.** Numbers make vague things concrete and credible.
-- Don't list skills you'd panic if asked about in an interview. That's a trap you're setting for yourself.
-- **ATS (Applicant Tracking System)** scans your resume before any human sees it. Simple formatting. No tables, no columns, no images in the main body.
+- Don't list skills you'd panic if asked about in an interview.
+- **ATS** scans your resume before any human sees it. Simple formatting. No tables, no columns, no images in the main body.
 - LaTeX resumes look more professional and are ATS-friendly. Use a template.
 
 **Free resume resources:**
@@ -748,29 +736,17 @@ Want to earn while you learn? Freelancing lets you start making money from your 
 
 ### Portfolio & GitHub
 
-**What makes a portfolio stand out:**
 - 3–5 solid projects (quality over quantity, always)
-- Every project has: clear description, tech stack, live demo link, clean code
-- Projects show progression — each one a bit more complex than the last
-- Your projects match the jobs you're applying for
-
-**Free hosting:**
-- [GitHub Pages](https://pages.github.com) — Free, works with any static site
-- [Vercel](https://vercel.com) — Perfect for React/Next.js. Free hobby plan.
-- [Netlify](https://www.netlify.com) — Great free tier, simple deployment
-
-**Your GitHub profile matters as much as your resume:**
-- Pin your 6 best projects at the top
-- Write proper READMEs — explain what it does, how to run it, add screenshots
+- Every project: clear description, tech stack, live demo link, clean code
+- Free hosting: [GitHub Pages](https://pages.github.com) · [Vercel](https://vercel.com) · [Netlify](https://www.netlify.com)
 - Use [first-contributions](https://github.com/firstcontributions/first-contributions) for your first open source PR
 - **[App Ideas Collection](https://github.com/florinpop17/app-ideas)** — Project ideas sorted by difficulty. Never run out of things to build.
 
 ### LinkedIn
 
-- Use a clean, professional profile photo. This matters more than people admit.
-- Headline: "Software Engineering Student | React · Node.js | Seeking Internship 2026" — not just "Student at X University"
-- Post what you're learning and building publicly. Recruiters notice active profiles.
-- Connect with engineers at companies you want to work at.
+- Clean, professional profile photo
+- Headline: "Software Engineering Student | React · Node.js | Seeking Internship 2026" — not just "Student"
+- Post what you're learning and building. Recruiters notice active profiles.
 
 ---
 
@@ -800,54 +776,71 @@ Want to earn while you learn? Freelancing lets you start making money from your 
 | [Kaggle Certs](https://www.kaggle.com/learn) | Google / Kaggle | Data science and ML. Completely free. |
 | [All Free Certs List](https://github.com/ArslanYM/Free-Certifications) | Various | Massive curated list of free certs across all domains. Bookmark this. |
 
-### Aptitude prep (important for Indian placements)
-
-Companies like TCS, Wipro, Infosys, Cognizant, Capgemini have aptitude rounds before technical interviews. Don't ignore this.
+### Aptitude prep
 
 | Resource | What it covers |
 |----------|---------------|
 | [IndiaBix](https://www.indiabix.com) | Quantitative aptitude, logical reasoning, verbal ability — completely free |
-| [PrepInsta](https://prepinsta.com) | Company-specific placement papers and preparation material |
+| [PrepInsta](https://prepinsta.com) | Company-specific placement papers and prep material |
 | [GeeksforGeeks Practice](https://practice.geeksforgeeks.org) | Technical + aptitude combined |
 
 ---
 
-## 🎁 Chapter 8 — Free Tools Every Student Should Claim
+## 🌍 Chapter 8 — Open Source & Freelancing
+
+Two of the most powerful things you can do alongside learning — one builds your credibility, the other builds your income. Both are covered in full detail in their own guides.
+
+### 🌍 Open Source Contribution
+
+Contributing to open source builds real skills, creates a verifiable portfolio, and gets you noticed by companies. Some programs even **pay you a stipend** just to contribute.
+
+> 📖 **[Read the Complete Open Source Guide →](OPEN_SOURCE.md)**
+>
+> Covers: full Git workflow, finding beginner-friendly projects, best projects to start with, and programs that pay — GSoC, Outreachy, MLH Fellowship, GirlScript Summer of Code, Hacktoberfest, LFX, FOSSEE, and more.
+
+### 💼 Freelancing
+
+Want to earn while you learn? Freelancing lets you start making money from your skills before you have a job.
+
+> 📖 **[Read the Complete Freelancing Guide →](FREELANCING.md)**
+>
+> Covers: Upwork vs Fiverr, how to price yourself (real INR + USD rate benchmarks), writing proposals that get responses, finding clients off-platform, managing difficult clients, getting paid internationally, taxes in India, and growing from beginner to professional.
+
+---
+
+## 🎁 Chapter 9 — Free Tools Every Student Should Claim
 
 > Most students have no idea these exist. Professionals pay hundreds of dollars for these tools. As a student, they're yours for free.
 
-### GitHub Student Developer Pack — The Most Important One
+### GitHub Student Developer Pack
 
 **[education.github.com/pack](https://education.github.com/pack)**
 
 Verify your student status with a college email or student ID. What you get free:
 
 - **GitHub Pro** — private repos, advanced GitHub features
-- **JetBrains All IDEs** — IntelliJ IDEA, PyCharm, WebStorm, all of them. The tools professionals actually use at work. Free while you're a student.
+- **JetBrains All IDEs** — IntelliJ IDEA, PyCharm, WebStorm. The tools professionals actually use. Free while you're a student.
 - **GitHub Copilot** — AI code completion. Free for students.
 - **Microsoft Azure** — $100 in cloud credits + 25+ free services
-- **Canva Pro** — 12 months free. Great for resumes and presentations.
-- **DigitalOcean** — $200 in cloud credits to deploy your projects
+- **Canva Pro** — 12 months free
+- **DigitalOcean** — $200 in cloud credits
 - **Namecheap** — 1 year free domain name
 - **Notion Pro** — free while you're a student
-- **Heroku credits** — deploy your projects for free
-
-> 🔗 Full updated benefits: [github.com/couponswift/awesome-student-software-deals](https://github.com/couponswift/awesome-student-software-deals)
 
 ### Other free tools
 
 | Tool | What it is | How to get it |
 |------|-----------|--------------|
-| [Google Colab](https://colab.research.google.com) | Free GPU access for ML projects. Enough for most student projects. | Just sign in with Google |
-| [AWS Educate](https://aws.amazon.com/education/awseducate/) | Free cloud credits + learning paths from Amazon | Sign up with student email |
+| [Google Colab](https://colab.research.google.com) | Free GPU access for ML projects | Just sign in with Google |
+| [AWS Educate](https://aws.amazon.com/education/awseducate/) | Free cloud credits + learning paths | Student email |
 | [Microsoft 365](https://www.microsoft.com/en-us/education/students) | Word, Excel, PowerPoint, Teams — free | College email |
 | [Figma Education](https://www.figma.com/education/) | Industry-standard design tool. Free for students. | Student verification |
-| [JetBrains Student](https://www.jetbrains.com/student/) | All JetBrains IDEs free — also available standalone without the GitHub pack | Student email |
-| [Google Cloud](https://cloud.google.com/edu) | GCP credits and learning opportunities for students | Student email |
+| [JetBrains Student](https://www.jetbrains.com/student/) | All JetBrains IDEs free | Student email |
+| [Google Cloud](https://cloud.google.com/edu) | GCP credits and learning opportunities | Student email |
 
 ---
 
-## 🏘️ Chapter 9 — Community
+## 🏘️ Chapter 10 — Community
 
 ### Join us
 
@@ -855,13 +848,13 @@ Verify your student status with a college email or student ID. What you get free
 
 | Channel | What it's for |
 |---------|--------------|
-| `#pick-your-domain` | Tell us where you are — get personal recommendations on where to start |
+| `#pick-your-domain` | Tell us where you are — get personal recommendations |
 | `#dsa-help` | Stuck on a problem? Post it. Someone will help. |
 | `#resume-review` | Share your resume and get honest, real feedback |
 | `#system-design` | Discuss system design concepts and practice questions |
 | `#internship-opportunities` | Real job and internship postings from community members |
 | `#wins` | Got placed? Solved something hard? Share it. |
-| `#study-groups` | Find an accountability partner — much easier to stay consistent with someone else |
+| `#study-groups` | Find an accountability partner |
 | `#off-campus-prep` | Resources and strategies specifically for off-campus hiring |
 
 **Rules:** Be kind. Help others. Share freely. No spam. No paid promotions.
@@ -891,42 +884,42 @@ Found something great? Something outdated or wrong? Open a pull request.
 ## ❓ FAQ — Honest Answers
 
 **Which programming language should I start with?**
-Python if you're interested in AI/ML or want the quickest results. JavaScript if you want web development. Java/C++ if your college already teaches it well. Pick one and stick with it for at least 3 months before even thinking about switching. The language matters far less than the concepts you learn with it.
+Python for AI/ML or quick results. JavaScript for web development. Java/C++ if college already teaches it well. Pick one and stick with it for at least 3 months. The language matters far less than the concepts you learn with it.
 
 ---
 
 **How many LeetCode problems do I need to solve?**
-150 well-understood problems across all patterns beats 500 problems you barely understood. Stop measuring your progress by problem count. Measure it by pattern mastery. If you've solved 100 problems but can't recognize a sliding window problem — something's wrong.
+150 well-understood problems across all patterns beats 500 problems you barely understood. Measure progress by pattern mastery, not problem count.
 
 ---
 
 **Should I do competitive programming or just LeetCode?**
-For getting a job this year → LeetCode patterns. For building genuinely strong problem-solving over 1–2 years → both. CP makes you faster and sharper in ways LeetCode alone won't. But if placement is this year and time is limited, stay focused.
+For getting a job this year → LeetCode patterns. For building long-term problem-solving strength → both. If placement is this year and time is limited, stay focused.
 
 ---
 
 **I'm from ECE/EEE/Mechanical — can I really get a software job?**
-Yes. Many software engineers at top companies came from non-CS backgrounds. Build the skills, build the projects, prepare properly. That's all it takes. See the [Non-CS section](#-non-cs-branches--tech-jobs).
+Yes. Many software engineers at top companies came from non-CS backgrounds. See the [Non-CS section](#-non-cs-branches--tech-jobs).
 
 ---
 
 **Is it too late to start in 3rd or 4th year?**
-3rd year is actually ideal — you have time before placements to build real skills. 4th year is tight but absolutely doable if you're focused. Quality of effort beats amount of time.
+3rd year is ideal. 4th year is tight but doable if you're focused. Quality of effort beats amount of time.
 
 ---
 
 **Do I need LeetCode Premium?**
-No. The free tier covers everything you need. Use [Leetracer](https://leetracer.com/screener) for free company-tagged questions — that's literally the main thing Premium offers.
+No. Use [Leetracer](https://leetracer.com/screener) for free company-tagged questions.
 
 ---
 
 **I keep losing motivation. How do I stay consistent?**
-Motivation is temporary. Systems are permanent. Set a daily minimum so small that skipping it would feel embarrassing — even 1 problem a day. Find an accountability partner in our Discord. Consistency over 6 months beats 2 weeks of intense grinding followed by burnout every single time.
+Motivation is temporary. Systems are permanent. Set a daily minimum so small that skipping it would feel embarrassing. Find an accountability partner in our Discord.
 
 ---
 
 **I have no idea where to start. What do I do right now?**
-Go to [cs50.harvard.edu](https://cs50.harvard.edu) and watch the Week 0 lecture. Come back here after. Don't overthink it. Just start that one thing.
+Go to [cs50.harvard.edu](https://cs50.harvard.edu) and watch the Week 0 lecture. Come back here after. Don't overthink it.
 
 ---
 
@@ -946,6 +939,6 @@ Go to [cs50.harvard.edu](https://cs50.harvard.edu) and watch the Week 0 lecture.
 
 *Last updated: May 2026 · All links verified · 100% Free · No affiliate links ever*
 
-*Keywords for search: free tech resources 2025 2026 · free programming resources for beginners · free computer science roadmap · learn coding free India students · free interview prep DSA · free web development resources · free machine learning AI resources · free cybersecurity learning · FAANG interview prep free · placement preparation free India · how to learn coding for free · free resources ECE students software job*
+*Keywords: free tech resources 2025 2026 · free programming resources for beginners · free computer science roadmap · learn coding free India students · free interview prep DSA · free web development resources · free machine learning AI resources · free cybersecurity learning · FAANG interview prep free · placement preparation free India · how to learn coding for free · free resources ECE students software job*
 
 </div>
